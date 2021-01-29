@@ -1,0 +1,35 @@
+daftar pustaka
+
+Sumber Dari Buku
+Hutahaean, J. (2015). Konsep sistem informasi. Deepublish.
+
+Anggraeni, E. Y. (2017). Pengantar Sistem Informasi. Penerbit Andi.
+
+Tyoso, J. S. P. (2016). Sistem Informasi Manajemen. Deepublish.
+
+NAFIUDIN, S. (2019). Sistem informasi manajemen. Penerbit Qiara Media.
+
+Sudirman, A., Muttaqin, M., Purba, R. A., Wirapraja, A., Abdillah, L. A., Fajrillah, F., ... & Simarmata, J. (2020). Sistem informasi manajemen. Yayasan Kita Menulis.
+
+Rerung, R. R. (2018). Pemrograman Web Dasar. Deepublish.
+
+Setiawan, D. (2017). Buku Sakti Pemrograman Web: html, css, php, mysql & javascript. Anak Hebat Indonesia.
+
+Ali, S., & Ambarita, A. (2016). Sistem Informasi Data Barang Inventaris Berbasis Web Pada Kejaksaan Negeri Ternate. IJIS-Indonesian Journal On Information System, 1(1).
+
+Enterprise, J. (2015). Pengenalan Visual Studio 2013. Elex Media Komputindo.
+
+Mulyani, S. (2017). Metode Analisis dan Perancangan Sistem. Abdi Sistematika.
+
+
+
+Sumber Dari Jurnal
+Fatimah, F. (2018). Perpustakaan, manfaat, kelebihan dan kekurangan. Jurnal Imam Bonjol: Kajian Ilmu Informasi dan Perpustakaan, 2(1), 30-35.
+
+Laugi, S. (2018). Sistem Informasi berbasis Web dalam Penyelenggaran Lembaga Pendidikan. Shautut Tarbiyah, 24(1), 109-126.
+
+Christian, A., Hesinto, S., & Agustina, A. (2018). Rancang Bangun Website Sekolah Dengan Menggunakan Framework Bootstrap (Studi Kasus SMP Negeri 6 Prabumulih). Jurnal Sisfokom (Sistem Informasi dan Komputer), 7(1), 22-27.
+
+Putra, A. (2020). Perancangan Sistem Informasi Penjualan dan Persediaan Pada Toko Acay Prima Busana (Doctoral dissertation, Universitas Dinamika Bangsa).
+
+Fitri, R. S., Rukun, K., & Dwiyani, N. (2018). Perancangan dan Implementasi Sistem Informasi Penjualan Komputer dan Accessories Pada Toko Mujahidah Computer Berbasis Web. VoteTEKNIKA: Jurnal Vocational Teknik Elektronika dan Informatika, 4(1).
